@@ -59,7 +59,9 @@ hr{
   height: 2px;
   margin: 100px auto;
 }
-
+.touch {
+  font-size: 110%;
+}
 .intro {
   color: steelblue;
   background-color: #E4F9F5;
